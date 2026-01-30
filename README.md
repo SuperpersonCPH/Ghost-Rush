@@ -19,14 +19,7 @@ Complete all three levels for victory!
 ## Technologies Used
 
 - **Python 3**
-- **Pygame** for graphics
-
----
-
-## Demo Video
-
-Watch the game in action here:  
-[**Demo Video Link**](PASTE_YOUR_VIDEO_LINK_HERE)
+- **Pygame**
 
 ---
 
@@ -56,5 +49,5 @@ Watch the game in action here:
 - Sprites and character images: Created by me
 
 ### External Resources
-- Platform image and background: Found on [Freepik](https://www.freepik.com/search?format=search&last_filter=query&last_value=games&query=games)
+- Platform image and background: Found on [Freepik](https://www.freepik.com/searchformat=search&last_filter=query&last_value=games&query=games)
 - Sound effects / music: Found on [Pixabay](https://pixabay.com/music/search/game/)
