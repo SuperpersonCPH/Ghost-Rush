@@ -42,10 +42,12 @@ Watch the game in action here:
 
 ## How to Run
 
-1. Install Python 3.x: [https://www.python.org/downloads/](https://www.python.org/downloads/)
+1. Install Python 3: [https://www.python.org/downloads/](https://www.python.org/downloads/)
 2. Install Pygame library:  
    ```bash
    pip install pygame
+3. Copy all files together
+4. Run the main file
 
 ## Credits
 
@@ -53,6 +55,6 @@ Watch the game in action here:
 - Game code: Created by me
 - Sprites and character images: Created by me
 
-### Ecternal Resources
-- Backgrounds Found on [Freepik](https://www.freepik.com/search?format=search&last_filter=query&last_value=games&query=games)
+### External Resources
+- Platform image and background: Found on [Freepik](https://www.freepik.com/search?format=search&last_filter=query&last_value=games&query=games)
 - Sound effects / music: Found on [Pixabay](https://pixabay.com/music/search/game/)
